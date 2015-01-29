@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=nome
+comment0.target=Pessoa(String)
+comment0.text=\nConstrutor\ de\ Pessoa\n\n@param\ nome\ \ nome\ da\ pessoa\n\n
+comment1.params=nome\ cpf
+comment1.target=Pessoa(String,\ int)
+comment1.text=\nConstrutor\ de\ Pessoa\n\n@param\ nome\ \ nome\ da\ pessoa\n@param\ cpf\ \ \ cpf\ da\ pessoa\n\n
+comment2.params=nome
+comment2.target=void\ setNome(String)
+comment2.text=\nSeta\ o\ nome\ da\ pessoa\n\n@param\ nome\ da\ pessoa\n\n
+comment3.target=String\ getNome()
+comment3.text=\nPega\ o\ nome\ da\ pessoa\n\n@return\ nome\ da\ pessoa\n\n
+comment4.params=endereco
+comment4.target=void\ setEndereco(String)
+comment4.text=\nSeta\ o\ endereco\ da\ pessoa\n\n@param\ endereco\ da\ pessoa\n\n
+numComments=5

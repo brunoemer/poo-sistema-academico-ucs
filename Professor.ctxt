@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=nome
+comment0.target=Professor(String)
+comment0.text=\nConstrutor\ de\ Professor\n\n@param\ nome\ \ nome\ do\ professor\n\n
+comment1.params=departamento
+comment1.target=void\ setDepartamento(String)
+comment1.text=\nSeta\ o\ departamento\ do\ professor\n\n@param\ departamento\ \ nome\ do\ departamento\n\n
+numComments=2

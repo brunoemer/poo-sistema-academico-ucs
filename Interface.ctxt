@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Interface()
+comment0.text=\nConstrutor\ da\ Interface\n\n
+comment1.target=void\ showMenu()
+comment1.text=\nMostra\ o\ menu\n\n
+comment2.params=n
+comment2.target=void\ interpreter(int)
+comment2.text=\nAcoes\ do\ menu\n\n@param\ n\ opcao\ escolhida\ no\ menu\n\n
+numComments=3

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=nome
+comment0.target=void\ setNome(String)
+comment0.text=\nSeta\ o\ nome\ da\ disciplina\n\n@param\ nome\ da\ disciplina\n\n
+comment1.target=String\ getNome()
+comment1.text=\nPega\ o\ nome\ da\ disciplina\n\n@return\ nome\ da\ disciplina\n\n
+numComments=2

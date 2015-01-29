@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=int\ leiaInt()
+comment0.text=\nm\u00C3\u00A9todo\ para\ leitura\ de\ n\u00C3\u00BAmeros\ inteiros.\n\n@return\ um\ n\u00C3\u00BAmero\ do\ tipo\ primitivo\ int.\n\n
+comment1.target=double\ leiaDouble()
+comment1.text=\nm\u00C3\u00A9todo\ para\ leitura\ de\ n\u00C3\u00BAmeros\ decimais.\n\n@return\ um\ n\u00C3\u00BAmero\ do\ tipo\ primitivo\ double.\n\n
+comment2.target=String\ leiaString()
+comment2.text=\nm\u00C3\u00A9todo\ para\ leitura\ de\ uma\ seq\u00C3\u00BC\u00C3\u00AAncia\ de\ caracteres.\n\n@return\ uma\ seq\u00C3\u00BC\u00C3\u00AAncia\ de\ caracteres\ do\ tipo\ String.\n\n
+numComments=3

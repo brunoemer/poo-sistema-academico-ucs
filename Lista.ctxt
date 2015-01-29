@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Lista()
+comment0.text=\nConstrutor\ da\ Lista\n\n
+comment1.target=boolean\ have()
+comment1.text=\nVerifica\ se\ array\ tem\ algum\ objeto\n\n@return\ boolean\ se\ array\ tem\ objeto\n\n
+comment2.params=obj
+comment2.target=void\ inserir(Object)
+comment2.text=\nInsere\ obj\ na\ lista\n\n@param\ obj\ \ \ obj\ a\ ser\ adicionado\ na\ lista\n\n
+comment3.params=pos
+comment3.target=int\ remover(int)
+comment3.text=\nRemove\ um\ objeto\ da\ lista\n\n@param\ pos\ \ \ posicao\ do\ array\ a\ ser\ removida\n@return\ 1\ para\ posicao\ invalida\ e\ 0\ para\ invalida\n\n
+comment4.target=int\ length()
+comment4.text=\nTamanho\ da\ lista\n\n@return\ i\ \ \ \ tamanho\ do\ array\n\n
+comment5.params=pos
+comment5.target=Object\ get(int)
+comment5.text=\nRetorna\ objeto\ da\ lista\n\n@param\ pos\ \ \ posicao\ da\ lista\n@return\ objeto\ da\ lista\n\n
+comment6.target=Object[]\ get()
+comment6.text=\nRetorna\ a\ lista\ inteira\n\n@return\ lista\ inteira\ de\ objetos\n\n
+numComments=7
